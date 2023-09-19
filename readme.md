@@ -4,7 +4,7 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-image: url("https://github.com/VivekAnandAI/VivekAnandAI.github.io/blob/profile/images/deep-mind.jpg");
+      background-image: url("https://github.com/VivekAnandAI/VivekAnandAI.github.io/blob/056f943f0e3bb418d2d55ce6fa404a282d780aa3/images/deep-mind.jpg");
       background-size: cover;
       background-repeat: no-repeat;
       background-attachment: fixed;
