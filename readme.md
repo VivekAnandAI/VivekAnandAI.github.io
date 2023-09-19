@@ -54,7 +54,7 @@
 <body>
   <div class="container">
     <h1>Vivek Anand K S</h1>
-    <p>+91 7604812985 | vivekmlengineer@gmail.com | <a href="https://www.linkedin.com/in/vivekanandks/">LinkedIn</a> | <a href="https://github.com/VivekAnandAI">GitHub</a> | <a href="https://www.kaggle.com/vivekanand95">Kaggle</a> | <a href="https://vivekanandai.github.io">Webprofile</a></p>
+    <p>+91 7604812985 | vivekmlengineer@gmail.com | <a href="https://www.linkedin.com/in/vivekanandks">LinkedIn</a> | <a href="https://github.com/VivekAnandAI">GitHub</a> | <a href="https://www.kaggle.com/vivekanand95">Kaggle</a> | <a href="https://vivekanandai.github.io">Webprofile</a></p>
 
     <h2>Summary</h2>
     <p>
