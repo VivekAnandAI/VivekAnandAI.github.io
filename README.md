@@ -1,5 +1,5 @@
 # Vivek Anand K S
-+91 7604812985 | vivekmlengineer@gmail.com | www.linkedin.com/in/vivekanandks | https://github.com/VivekAnandAI | https://www.kaggle.com/vivekanand95
++91 7604812985 | vivekmlengineer@gmail.com | www.linkedin.com/in/vivekanandks | https://github.com/VivekAnandAI | https://www.kaggle.com/vivekanand95 | https://VivekAnandAI.github.io
 
 ## Summary
 Passionate ML/AI Engineer with 2+ years of experience in designing and implementing machine learning models and data-driven solutions to increase efficiency, accuracy, and utility of internal data processing. Experienced to analyse (several) deep learning algorithms and in identifying the role of the various critical knobs in algorithms, Implementing Machine learning and data science knowledge to manage statistical machine learning and data-related solutions. Also proficient in developing algorithms for predictive analytics and natural language processing. Adept at collaborating with cross-functional teams to solve complex problems. Eager to contribute expertise to AI initiatives.
